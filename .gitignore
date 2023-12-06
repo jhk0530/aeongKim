@@ -1,0 +1,9 @@
+
+# MAC STORAGE
+.DS_Store
+
+# NODE PACKAGES
+node_modules/
+package.json
+package-lock.json
+
